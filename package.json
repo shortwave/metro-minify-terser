@@ -18,7 +18,8 @@
   "scripts": {
     "prepare": "npm run build",
     "build": "tsc",
-    "release": "np"
+    "release": "np",
+    "test": "echo 'yolo'"
   },
   "dependencies": {
     "sync-rpc": "^1.3.6",
